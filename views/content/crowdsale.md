@@ -61,7 +61,7 @@ Go to **contracts** and then **deploy contract**:
 
 * Put **250** ethers as the funding goal
 
-* If you are just doing it for a test or demonstration, put the crowdsale duration as 3-10 minutes, but if you are really raising funds you can put a larger amount, like **45,000** (31 days).
+* If you are just doing it for a test or demonstration, put the crowdsale duration as 3-10 minutes, but if you are really raising funds you can put a larger amount, like **45,000** (31 days). crowdsale duration can is dependent on the proposed project.
 
 * The **ether cost of each token** should be calculated based on how many tokens you are putting up for sale (a maximum of how many you added as "initial supply" of your token on the previous step). In this example, put 5 ethers.
 
